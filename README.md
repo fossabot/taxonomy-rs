@@ -5,6 +5,7 @@
 [![PyPI version](https://badge.fury.io/py/taxonomy.svg)](https://pypi.org/project/taxonomy/)
 [![Crates version](https://img.shields.io/crates/v/taxonomy.svg)](https://crates.io/crates/taxonomy)
 [![CircleCI](https://circleci.com/gh/onecodex/taxonomy-rs.svg?style=shield)](https://circleci.com/gh/onecodex/taxonomy-rs)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fonecodex%2Ftaxonomy-rs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fonecodex%2Ftaxonomy-rs?ref=badge_shield)
 
 This is a Rust library for reading, writing, and editing biological taxonomies. There are associated Python bindings for accessing most of the functionality from Python.
 
@@ -76,3 +77,7 @@ There are taxonomic toolkits for other programming languages that offer differen
 *ETE Toolkit (http://etetoolkit.org/)* A Python taxonomy library
 
 *Taxize (https://ropensci.github.io/taxize-book/)* An R toolkit for working with taxonomic data
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fonecodex%2Ftaxonomy-rs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fonecodex%2Ftaxonomy-rs?ref=badge_large)
